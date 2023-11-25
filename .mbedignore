@@ -1,0 +1,7 @@
+paho.mqtt.embedded-c/Debug/
+paho.mqtt.embedded-c/doc/
+paho.mqtt.embedded-c/MQTTClient/
+paho.mqtt.embedded-c/MQTTClient-C/
+paho.mqtt.embedded-c/MQTTPacket/samples/
+paho.mqtt.embedded-c/MQTTPacket/test/
+paho.mqtt.embedded-c/test/

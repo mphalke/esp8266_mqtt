@@ -1,0 +1,6 @@
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/ARMmbed/mbed-os
+[submodule "paho.mqtt.embedded-c"]
+	path = paho.mqtt.embedded-c
+	url = https://github.com/eclipse/paho.mqtt.embedded-c

@@ -1,0 +1,6 @@
+*.swp
+*.profile*
+paho.mqtt.embedded-c
+mbed-os
+esp8266_mqtt
+.mbed
